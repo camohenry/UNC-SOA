@@ -1,5 +1,5 @@
 ---
-title: '[Riley] SOA'
+title: 'SOA'
 output: html_document
 date: '`r Sys.Date()`'
 ---
